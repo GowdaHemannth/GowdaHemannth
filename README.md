@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Hemanth Gowda</h1>
-<h3 align="center">Computer Science Engineer | Java Developer | MERN Stack Enthusiast | Data Science Explorer</h3>
+<h3 align="center">Computer Science Engineer | Java Developer | Machine-Learning | MERN Stack Enthusiast | Data Science Explorer</h3>
 
 ---
 
