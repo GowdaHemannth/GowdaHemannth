@@ -67,7 +67,7 @@
 ### 📫 **Connect with Me**
 
 - 🔗 LinkedIn: [Hemanth Gowda](https://www.linkedin.com/in/hemanth-gowda-987782323/)  
-- 🌐 Portfolio: [Hemanth Gowda's Portfolio](https://yourportfolio.com) <!-- Replace with your real portfolio -->
+- 🌐 Portfolio: [Hemanth Gowda's Portfolio](https://illustrious-baklava-2fa969.netlify.app/)  
 - 📬 GitHub: [GowdaHemannth](https://github.com/GowdaHemannth)
 
 ---
