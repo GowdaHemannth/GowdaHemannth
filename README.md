@@ -55,21 +55,4 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GowdaHemannth&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GowdaHemannth&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-### 📫 **Connect with Me**
-
-- 🔗 LinkedIn: [Hemanth Gowda](https://www.linkedin.com/in/hemanth-gowda-987782323/)  
-- 🌐 Portfolio: [Hemanth Gowda's Portfolio](https://hemanthgowda.netlify.app/)  
-- 📬 GitHub: [GowdaHemannth](https://github.com/GowdaHemannth)
-
----
-
-🛠️ *Open to collaborations, internships, and opportunities in Java, MERN Stack, and Machine Learning.*
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GowdaHe
