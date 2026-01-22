@@ -3,18 +3,18 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Hemanth Gowda</h1>
-<h3 align="center">Computer Science Engineer | Java Developer | Machine-Learning | MERN Stack Enthusiast | Data Science Explorer</h3>
+<h3 align="center">Computer Science Engineer | Java Developer | Machine Learning | MERN Stack Enthusiast | Data Science Explorer</h3>
 
 ---
 
 ### 🚀 **About Me**
-- 💻 Passionate **Java Developer** & **Complex Problem Solver**
+- 💻 Passionate **Java Developer** & **Problem Solver**
 - 🌍 Exploring **MERN Stack, Node.js, Express, SQL, and MongoDB**
-- 📊 Hands-on with **Python**, **NumPy**, **Pandas**, **Seaborn**, **Matplotlib**
+- 📊 Hands-on experience with **Python**, **NumPy**, **Pandas**, **Seaborn**, **Matplotlib**
 - 🤖 Learning **Machine Learning**, **Deep Learning**, **Scikit-learn**, **TensorFlow**, and **Keras**
-- ☁️ Currently diving into **Cloud Computing & Big Data**
-- 🔐 Building **TrueTrace**: a Blockchain-based authenticity verification system
-- 🧠 Strong in **Data Structures & Algorithms**, with consistent DSA practice
+- ☁️ Currently exploring **Cloud Computing & Big Data**
+- 🔐 Building **TrueTrace** – a blockchain-based product authenticity and traceability system
+- 🧠 Strong foundation in **Data Structures & Algorithms** with consistent problem-solving practice
 
 ---
 
@@ -41,10 +41,10 @@
 
 ### 📌 **Pinned Projects**
 
-- 🔗 [WhatsApp Chat Analyzer](https://github.com/GowdaHemannth/Whatsapp_Analysis) – NLP, Matplotlib, and Pandas based data visualizations  
-- 🧠 [Face Mask Detection](https://github.com/GowdaHemannth/Face-Mask-Detection) – Real-time mask detection using CNN + OpenCV  
-- 📈 [Movie Recommendation System](https://github.com/GowdaHemannth/your-movie-recommendation-repo) – Collaborative filtering using cosine similarity  
-- 📊 [DSA Practice Repo](https://github.com/GowdaHemannth/your-dsa-repo) – Array, String, Two Pointers, Sliding Window, and more
+- 🔗 [WhatsApp Chat Analyzer](https://github.com/GowdaHemannth/Whatsapp_Analysis) – Deep learning & NLP-based chat insights using Pandas and Matplotlib  
+- 🧠 [Face Mask Detection](https://github.com/GowdaHemannth/Face-Mask-Detection) – Real-time face mask detection using CNN and OpenCV  
+- 📈 [Movie Recommendation System](https://github.com/GowdaHemannth/your-movie-recommendation-repo) – Recommendation system using collaborative filtering and cosine similarity  
+- 📊 [DSA Practice Repository](https://github.com/GowdaHemannth/your-dsa-repo) – Arrays, Strings, Recursion, DP, Sliding Window, and more
 
 ---
 
@@ -67,10 +67,9 @@
 ### 📫 **Connect with Me**
 
 - 🔗 LinkedIn: [Hemanth Gowda](https://www.linkedin.com/in/hemanth-gowda-987782323/)  
-- 🌐 Portfolio: [Hemanth Gowda's Portfolio]([https://hemanthgowda.netlify.app/]
+- 🌐 Portfolio: [Hemanth Gowda's Portfolio](https://hemanthgowda.netlify.app/)  
 - 📬 GitHub: [GowdaHemannth](https://github.com/GowdaHemannth)
 
 ---
 
-⭐ **Star this repo if you like it!** 😊  
-🛠️ *Open to collaborations, freelancing, or internships related to Java, MERN, or ML.*
+🛠️ *Open to collaborations, internships, and opportunities in Java, MERN Stack, and Machine Learning.*
