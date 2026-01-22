@@ -9,24 +9,24 @@
 
 ---
 
-## ✨ About Me
+## ✨ Who Am I?
 
-I’m a **Computer Science Engineering student** with a strong interest in building **real-world applications** and solving problems using **efficient algorithms** and **clean code**.
+I’m a **Computer Science Engineering student** passionate about building **scalable applications**, solving **real-world problems**, and continuously improving my **problem-solving skills**.
 
-My focus areas include **Java backend development**, **full-stack web development**, and **machine learning**, with continuous practice in **Data Structures & Algorithms**.
+I enjoy working at the intersection of **Java backend**, **full-stack web development**, and **machine learning**, with a strong focus on clean code and practical implementation.
 
 ---
 
-## 🚀 Currently Working On
+## 🚀 What I’m Working On
 - 🔐 **TrueTrace** — Blockchain-based product authenticity & traceability system  
-- 🧠 Improving **DSA & problem-solving skills**
-- 🌐 Full-stack projects using the **MERN Stack**
-- 🤖 **Machine Learning & Deep Learning**
-- ☁️ Exploring **Cloud & Big Data fundamentals**
+- 🧠 Strengthening **Data Structures & Algorithms**
+- 🌐 Building projects using the **MERN Stack**
+- 🤖 Learning **Machine Learning & Deep Learning**
+- ☁️ Exploring **Cloud & Big Data concepts**
 
 ---
 
-## 🧩 Tech Stack
+## 🧩 Tech I Use
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,express,mongodb,sql,tensorflow&theme=dark" />
@@ -45,7 +45,7 @@ My focus areas include **Java backend development**, **full-stack web developmen
 <td width="50%">
 
 ### 💬 WhatsApp Chat Analyzer  
-Deep learning & NLP-based analysis of WhatsApp chat data to uncover insights, trends, and sentiment.
+Deep learning & NLP-based analysis of chat data to extract patterns, sentiment, and insights.
 
 🔗 <a href="https://github.com/GowdaHemannth/Whatsapp_Analysis">View Project</a>
 
@@ -53,7 +53,7 @@ Deep learning & NLP-based analysis of WhatsApp chat data to uncover insights, tr
 <td width="50%">
 
 ### 😷 Face Mask Detection  
-Real-time face mask detection system built using CNN and OpenCV.
+Real-time face mask detection using CNN and OpenCV for public safety applications.
 
 🔗 <a href="https://github.com/GowdaHemannth/Face-Mask-Detection">View Project</a>
 
@@ -64,7 +64,7 @@ Real-time face mask detection system built using CNN and OpenCV.
 <td width="50%">
 
 ### 🎬 Movie Recommendation System  
-Recommendation engine using collaborative filtering and cosine similarity.
+Collaborative filtering–based recommendation engine using cosine similarity.
 
 🔗 <a href="#">View Project</a>
 
@@ -72,7 +72,7 @@ Recommendation engine using collaborative filtering and cosine similarity.
 <td width="50%">
 
 ### 📊 DSA Practice Repository  
-Structured practice of Data Structures and Algorithms with optimized solutions.
+Structured practice of core DSA topics with optimized solutions.
 
 🔗 <a href="#">View Repository</a>
 
@@ -82,14 +82,14 @@ Structured practice of Data Structures and Algorithms with optimized solutions.
 
 ---
 
-## 📊 GitHub Overview (Clean & Neutral)
+## 📈 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GowdaHemannth&show_icons=true&theme=github_dark&hide=stars,prs,issues,contribs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GowdaHemannth&show_icons=true&theme=github_dark&hide=prs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GowdaHemannth&theme=github-dark&hide_total_contributions=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GowdaHemannth&theme=github-dark" />
 </p>
 
 <p align="center">
@@ -98,7 +98,7 @@ Structured practice of Data Structures and Algorithms with optimized solutions.
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let’s Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hemanth-gowda-987782323/">
@@ -115,5 +115,5 @@ Structured practice of Data Structures and Algorithms with optimized solutions.
 ---
 
 <p align="center">
-  <i>Focused on learning, building, and growing as a developer.</i>
+  <i>Always learning. Always building.</i>
 </p>
